@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "207019905483",
+    "firebase_url": "https://postgraduate-04-dm114.firebaseio.com",
+    "project_id": "postgraduate-04-dm114",
+    "storage_bucket": "postgraduate-04-dm114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207019905483:android:8a95a249efc6fc1997a64e",
+        "android_client_info": {
+          "package_name": "br.com.silverio.postgraduate_04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207019905483-0legtsc8uc1ha9k3hlfgr2986qkeopum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.silverio.postgraduate_04",
+            "certificate_hash": "f69b358141b7294c2144af85127927c8b9761027"
+          }
+        },
+        {
+          "client_id": "207019905483-c7j2q1in4010bo5skvro5nnvfses67bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxChDtA3tMMe44xy4Lu7ae-TN5ffccnuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207019905483-c7j2q1in4010bo5skvro5nnvfses67bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
